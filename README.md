@@ -1,2 +1,5 @@
-# Kotlin-Variable
-First Kotlin variable program.
+# Kotlin-Hello World
+First Kotlin program.
+fun main() {
+    println("Hello World)
+}
