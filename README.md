@@ -1,5 +1,6 @@
-# Kotlin-Hello World
-First Kotlin program.
+# Kotlin-Variable
+First Kotlin variable program.
 fun main() {
-    println("Hello World)
+    val count: Int = 2
+    println(count)
 }
